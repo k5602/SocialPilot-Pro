@@ -51,7 +51,7 @@
 ## 📸 **Screenshots**  
 | Creds Interface | Content Calendar | 
 |-----------------------|-------------------|
-| ![Cerds](Screenshot2) | ![Calendar](Screenshot3.png) | 
+| ![Cerds](Screenshot2.png) | ![Calendar](Screenshot3.png) | 
 
 ---
 
