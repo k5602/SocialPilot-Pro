@@ -83,8 +83,6 @@ MIT License – Free for personal and commercial use.
 
 ---
 
-**✨ Crafted with Python passion by [Khaled]**  
-*Add this project to your portfolio to showcase full-stack desktop app development skills!*  
-
+**✨ Crafted with Python passion by Khaled**  
 --- 
 *Let SocialPilot Pro handle the grind while you focus on creativity!* 🚀
